@@ -7,8 +7,8 @@
 unsigned long lastMeasureMillis;
 int sensorValue;
 
-const char* ssid = "";
-const char* password = "";
+const char* ssid = "5Gca3e";
+const char* password = "S4ca!!!!";
 
 ESP8266WebServer server(80);
 
